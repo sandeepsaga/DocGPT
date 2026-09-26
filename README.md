@@ -1,6 +1,6 @@
-# DocGPT
+# DocMIND
 
-DocGPT is an AI-powered document intelligence platform that enables users to upload, analyze, search, and interact with documents through a modern web interface. Built with **React** for the frontend and **FastAPI** for the backend, DocMind provides fast, scalable, and intuitive document management and knowledge extraction capabilities.
+DocMIND is an AI-powered document intelligence platform that enables users to upload, analyze, search, and interact with documents through a modern web interface. Built with **React** for the frontend and **FastAPI** for the backend, DocMind provides fast, scalable, and intuitive document management and knowledge extraction capabilities.
 
 ---
 
