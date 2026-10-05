@@ -1,6 +1,6 @@
-# DocMIND
+# DocGPT
 
-DocMIND is an AI-powered document intelligence platform that enables users to upload, analyze, search, and interact with documents through a modern web interface. Built with **React** for the frontend and **FastAPI** for the backend, DocMind provides fast, scalable, and intuitive document management and knowledge extraction capabilities.
+DocGPT is an AI-powered document intelligence platform that enables users to upload, analyze, search, and interact with documents through a modern web interface. Built with **React** for the frontend and **FastAPI** for the backend, DocMind provides fast, scalable, and intuitive document management and knowledge extraction capabilities.
 
 ---
 
@@ -214,4 +214,4 @@ git push origin feature/new-feature
 This project is licensed under the MIT License.
 
 
-**DocMind** — Transforming documents into actionable knowledge.
+**DocGPT** — Transforming documents into actionable knowledge.
